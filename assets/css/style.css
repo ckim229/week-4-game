@@ -1,0 +1,46 @@
+html, body{
+    color: teal;
+    height: 100%;
+  }
+  body { 
+              background-image: url("../images/background.jpg") ;
+              background-position: center center;
+              background-repeat:  no-repeat;
+              background-attachment: fixed;
+              background-size:  cover;
+              background-color: #999;
+  }
+.card {
+    color: black;
+    height:50%;
+    border: 1;
+    border-color: teal;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.card-title{
+    font-size: 15px;
+}
+
+.card-img-top {
+    height: 132.6px;
+}
+.title{
+    font-size: 50px;
+    text-align: right;
+    color: white;
+}
+.counters{
+    background-color: black;
+    width: 40%;
+}
+h2 {
+    border: 3px dotted blue;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
